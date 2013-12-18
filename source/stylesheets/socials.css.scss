@@ -1,0 +1,55 @@
+#msg{
+	padding: 0 30px;
+	a{
+	  display: inline-block;
+	  font-size: 0.83em;
+	  padding: 0.5em 0.6875em;
+	  line-height: 1.2;
+	  font-weight: normal;
+	  background-color: #0088cc;
+	  border: 0.0725em solid #0088cc;
+	  border-radius: 0.0725em;
+	  margin-right: 0.3125em;
+	  margin-bottom: 0.3125em;		
+	  color: #FFF;
+	  text-decoration: none;
+	  text-shadow: 0 1px 0px #333;
+	}
+
+	/* Twitter */
+
+	a.btn-twitter {
+	  background-color: #41b7d8;
+	  border-color: #41b7d8;
+	}
+
+	a.btn-twitter:hover {
+	  background-color: #238caa;
+	  border-color: #238caa;
+	}
+
+	/*  Facebook */
+	a.btn-facebook {
+	  background-color: #3b5997;
+	  border-color: #3b5997;
+	}
+
+	a.btn-facebook:hover {
+	  background-color: #263960;
+	  border-color: #263960;
+	}
+
+	/* VK */
+	a.btn-vk {
+	  background-color: #5e82a8;
+	  border-color: #5e82a8;
+	}
+
+	a.btn-vk:hover {
+	  background-color: #415c78;
+	  border-color: #415c78;
+	}
+
+}
+
+

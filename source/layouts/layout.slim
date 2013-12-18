@@ -1,0 +1,20 @@
+doctype html
+html
+  head
+    title == current_page.data.title || "The Middleman"
+    == stylesheet_link_tag "normalize", "all"
+    == javascript_include_tag  "all"
+  body
+    header
+      h1 Middle man example
+    menu
+      a href="/" Blog
+      a href="/about.html" About
+
+    .content
+      = yield
+
+    p id="msg"
+    
+    footer
+      | &copy; aomega.ru

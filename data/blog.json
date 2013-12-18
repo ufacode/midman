@@ -1,0 +1,6 @@
+{
+  "posts": [
+    {"title": "Enjoy Middleman", "text": "Happy coding with Slim & CoffeeScript, they are awesome, yeah!"},
+    {"title": "My first post", "text": "in static blog generated with Middleman"}
+  ]
+}

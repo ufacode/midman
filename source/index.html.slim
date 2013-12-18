@@ -1,0 +1,9 @@
+---
+title: Welcome to Middleman
+layout: layout
+---
+
+- data.blog.posts.each do |post|
+	.post
+		h2 = post[:title]
+		p.text = post[:text]
